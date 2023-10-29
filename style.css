@@ -1,0 +1,23 @@
+*{font-family: 'Segoe UI Light', sans-serif;letter-spacing: 5px;}
+.nav-bar{
+    display: flex;
+    margin-right:50px;
+    justify-content: space-around;
+}
+.nav-bar a{
+    text-decoration: none;
+    letter-spacing: 2px;
+    font-family: 'Segoe UI';
+}
+.nav-bar a:hover{
+    text-decoration:underline;
+    transition: 0.25s;
+}
+h1{
+    text-align: center;
+    margin-top:300px;
+    font-size:2.5rem;
+}
+p{
+    text-align: center;
+    font-size:1.2rem;}
